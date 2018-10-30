@@ -1,0 +1,23 @@
+#lang {
+    list-style: none;
+    float: right;
+    font-size: 70%;
+    letter-spacing: 0.1em;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    width: 950px;
+    height: 15px;
+    text-align: right;
+}
+
+#lang li {
+    display: inline;
+}
+
+#lang_kr {
+    margin-right: 10px;
+}
+
+#header {
+    
+}
